@@ -1,0 +1,11 @@
+Hva er de Vanlige algoritmer for å arbeide med matriser(Arrays). 
+fylling 
+Sum og gjennomsnittlig verdi 
+Maksimum og minimum 
+element separatorer 
+lineær søk 
+Fjerne og element 
+Sette inn og element 
+bytte elementer 
+kopiering arrays 
+Reading innspill.

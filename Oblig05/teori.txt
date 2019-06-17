@@ -1,0 +1,19 @@
+
+A
+ innkapsling er en måte å skjule gjennomføringen detaljer fra 
+brukere. Hvis en data medlem er privat betyr det at det kun kan nås innenfor 
+samme klasse. Ingen utenfor klassen kan få tilgang til private data medlem 
+(variabel) for andre klasse. 
+Det er viktig fordi 
+Det forbedrer vedlikehold og fleksibilitet og re-usability 
+Bruker ville ikke vite hva som skjer bak scenen 
+Feltene kan gjøres skrivebeskyttet eller skrive-bare. 
+
+b.
+grensesnitt definerer oppførselen til en arve klassen og hva det må utvise.
+forskjellen er at i grensesnitt vi kan ikke opprette objekter.
+C
+instansmetode - metoden definert i en klasse som er bare tilgjengelig gjennom 
+objektet av klassen kalles instansmetode.
+Instansmetoder kan kalles ved gjenstand for en klasse, mens statiske metoden
+ kalles av klasse.
